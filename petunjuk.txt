@@ -1,0 +1,17 @@
+* Nama App: MovieCat
+* Version: 1
+* useContext? true
+* Tentang App:
+  App ini bernama MovieCat (ceritanya sebuah brand) yang memberikan layanan streaming
+  dengan beberapa fitur watch later dan watch history, dll. Semua data-data yang ada pada app di-get
+  dari API nya themoviedb. Beberapa link gambar yang ada pada API bernilai null sehingga tidak dapat ditampilkan
+  secara keseluruhan, namun dengan masih bisa ditampilkan dengan baik dengan beberapa tricky yaitu
+  memodif beberapa parameter api secara manual.
+
+  App ini di design dalam lingkungan Android sehingga ukuran dan ke-compatible-an mungkin saja hanya cocok untuk Android.
+
+  App ini memang sangat minim dan beberapa fitur tidak lengkap karena hanya untuk keperluan edukasi.
+
+* Public API -> https://developers.themoviedb.org/3/getting-started
+* Rancangan Figma -> https://www.figma.com/file/EDFP1npueesdvefipT3vRJ/Tugas-Akhir?node-id=0%3A1
+
