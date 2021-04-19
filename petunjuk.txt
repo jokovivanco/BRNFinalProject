@@ -15,3 +15,4 @@
 * Public API -> https://developers.themoviedb.org/3/getting-started
 * Rancangan Figma -> https://www.figma.com/file/EDFP1npueesdvefipT3vRJ/Tugas-Akhir?node-id=0%3A1
 
+* Cara login: gunakan user apapun itu dan passwordnya adalah admin
